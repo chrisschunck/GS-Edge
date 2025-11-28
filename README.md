@@ -1,4 +1,5 @@
 Projeto ESP32 + Node‑RED Dashboard
+
 🔎 Visão Geral
 Este projeto conecta um ESP32 rodando sensores (DHT22 e LDR) a um broker MQTT, e usa o Node‑RED para receber os dados e exibi‑los em tempo real em um dashboard web com gauges.
 ---
