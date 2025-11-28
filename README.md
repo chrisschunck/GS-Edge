@@ -71,3 +71,8 @@ Veja os gauges atualizando em tempo real.
 • LED no ESP32 acende se temperatura > 28 °C.
 • Possibilidade de adicionar charts para histórico de dados.
 • Fácil expansão para novos sensores ou alarmes.
+
+Acesse o link do projeto abaixo:
+https://wokwi.com/projects/new/esp32
+
+Acesse o link do vídeo demonstrativo abaixo:
