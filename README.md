@@ -73,6 +73,6 @@ Veja os gauges atualizando em tempo real.
 • Fácil expansão para novos sensores ou alarmes.
 
 Acesse o link do projeto abaixo:
-https://wokwi.com/projects/new/esp32
+[https://wokwi.com/projects/new/esp32](https://wokwi.com/projects/448912655033617409)
 
 Acesse o link do vídeo demonstrativo abaixo:
